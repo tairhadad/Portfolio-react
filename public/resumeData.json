@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name":"Tair Hadad",
+    "occupation":"Software Engineering student",
+    "description":"I'm a 4rd year Software Engineering student who is looking for a student position job with a learning and developmental perspective.\n I'm organized and methodical, able to learn independently and highly motivated to learn and progress.",
+    "image":"profilepic.jpg",
+    "bio":"I'm looking for a development student job. During the degree I independently studied mobile application development in java in android studio environment with firebase database.\n Also has knowledge of languages: c, c ++, c #, python, sql.\n I have a high self-learning ability and tremendous motivation to start working in the field.",
+    "contactmessage":"You can contact me at..",
+    "email": "tairhadad1@gmail.com",
+    "phone": "0523219555",
+    "address":{
+      "street":"",
+      "city":"Beer Sheva",
+      "state":"Israel",
+      "zip": ""
+    },
+    "website": "http://www.tairhadad.com",
+    "resumedownload":"http://tairhadad.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tair-hadad-b0b75b190/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/tairhadad",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/channel/UCajrVTjuwxGA4iNtAoO6m8Q?view_as=subscriber",
+        "className":"fa fa-youtube"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"“Sami Shamoon” College",
+        "degree":"B.Sc. Software Engineering student",
+        "graduated":"October 2017",
+        "description":"• GPA – 85, Expected graduation - end of 2021.\n• Majoring in Cyber: Cryptography - Linux Environment.\n• Skills: Python, C, C++, Java, Html, CSS, ASP.Net, C#, SQL."
+      }
+    ],
+    "work":[
+      {
+        "company":"“Hapoel Beer Sheva F.C“",
+        "title":"Tutor",
+        "years":"2019 - Current",
+        "description":"• Tutoring young football players in Coding and Math.\n• Bringing children with learning difficulties to success in school."
+      },
+      {
+        "company":"“Bet Yatziv“ programming camp",
+        "title":"Lessons planner",
+        "years":"2018",
+        "description":"• Designing lesson plans for middle school students.\n• Adapting complex study materials for young students.\n• Time management under a specific time schedule and pressure."
+      },
+      {
+        "company":"Security Company Meitar",
+        "title":"Shift Manager",
+        "years":"2015 - 2018",
+        "description":"• Managing about 10 security guards.\n• Responsibility and decision making under pressure."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"B-sport Mobile app",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
